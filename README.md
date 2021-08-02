@@ -5,7 +5,7 @@ This is the first official homework assignment for 01-HTML-Git-CSS
 
 ## Important Homework Submission URLs
 
-* [Deployed Application URL](#) 
+* [Deployed Application URL](https://candracodes.github.io/horiseon-seo-refactoring/) 
 * [GitHub Repo URL](https://github.com/candracodes/horiseon-seo-refactoring) 
 
 ## Foreword
