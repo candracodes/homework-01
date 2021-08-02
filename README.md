@@ -1,7 +1,6 @@
-# Homework-01: horiseon-seo-refactoring
+# Homework-01: Horiseon-SEO-Refactoring
 This is the first official homework assignment for 01-HTML-Git-CSS
 
-# 01 HTML, CSS, and Git: Code Refactor
 
 ## Important Homework Submission URLs
 
@@ -29,6 +28,19 @@ This is the first official homework assignment for 01-HTML-Git-CSS
     * The URL of the deployed application.
     * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+## Significant Changes Made to Application | HTML
+
+* Title changed from `website` to `Horiseon | Homepage`
+* New semantic tags of `header` and `nav` added; removed unneccesary `<div>` with header class
+* Comments added for ease of understanding and explanation for future dev team members
+
+
+## Significant Changes Made to Application | CSS
+
+* Table of contents comments added
+* class `.header` removed since `<header>` was implemented into the HTML instead
+* `header` added as global semantic element rather than a class type
+* `nav` added as semantic element
 
 ## User Story
 
