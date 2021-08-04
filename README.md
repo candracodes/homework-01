@@ -1,16 +1,14 @@
-# Homework-01: Horiseon-SEO-Refactoring
-This is the first official homework assignment for 01-HTML-Git-CSS
+# Horiseon SEO Refactoring
 
-
-## Important Homework Submission URLs
+## Important URLs
 
 * [Deployed Application URL](https://candracodes.github.io/horiseon-seo-refactoring/) 
 * [GitHub Repo URL](https://github.com/candracodes/horiseon-seo-refactoring) 
 
 ## Foreword
 
-* This project aims to accomplish the following:
-    * Adhere to the [Homework Guide](./guide/Homework-Guide/README.md) to ensure submission is in compliance with class standards
+* This application aims to accomplish the following:
+    * Adhere to the [Guidelines](./guide/Homework-Guide/README.md) to ensure submission is in compliance with class standards
     * Ensure that User Story is fulfilled by completing all Acceptance Criteria
     * Application's links all function correctly.
     * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
@@ -75,6 +73,6 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's expected appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-mockup-image.png)
