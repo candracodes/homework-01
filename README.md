@@ -33,6 +33,12 @@ This is the first official homework assignment for 01-HTML-Git-CSS
 * Title changed from `website` to `Horiseon | Homepage`
 * New semantic tags of `header` and `nav` added; removed unneccesary `<div>` with header class
 * Comments added for ease of understanding and explanation for future dev team members
+* Made hero a section rather than a div
+* Replaced benefits div with an article/sidebar element
+* Removed excessive benefit classes in exchange for individual sections within the article
+* Replaced footer div with semantic footer tag
+* Alt tags added to all images and links
+* Hover action added to all anchors for intui
 
 
 ## Significant Changes Made to Application | CSS
@@ -41,6 +47,7 @@ This is the first official homework assignment for 01-HTML-Git-CSS
 * class `.header` removed since `<header>` was implemented into the HTML instead
 * `header` added as global semantic element rather than a class type
 * `nav` added as semantic element
+* Added a class called `back-to-top` so users don't have to scroll all the way to the top from being at the bottom of the page
 
 ## User Story
 
