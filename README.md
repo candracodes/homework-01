@@ -36,7 +36,8 @@
 * Removed excessive benefit classes in exchange for individual sections within the article
 * Replaced footer div with semantic footer tag
 * Alt tags added to all images and links
-* Hover action added to all anchors for intui
+* Hover action added to all anchors for intuitive human/computer interaction
+* Added flexbox for main content area
 
 
 ## Significant Changes Made to Application | CSS
