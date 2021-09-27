@@ -81,3 +81,6 @@ The following image shows the web application's expected appearance and function
 ## Licensing
 The project is made possible with the following Licensing:
 - [MIT](license.txt)
+
+## Contact Developer
+For additional information, contact this application's developer: letschat@candracodes.com
